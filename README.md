@@ -67,3 +67,5 @@ Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are
 ## Community
 
 Stay updated through the [official channel](https://t.me/coinflashr_app) for progress tracking and feature updates.
+
+https://github.com/user-attachments/assets/9547b756-c040-482a-ae68-b4f55a39bf4d
